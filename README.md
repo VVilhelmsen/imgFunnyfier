@@ -14,7 +14,7 @@
 ### Installation
 
 <ol>
-  <li>git clone https://www.example.org</li>
+  <li>git clone https://github.com/VVilhelmsen/imgFunnyfier.git</li>
   <li>change '/path/to/picture/folder' in main.py</li>
   <li>python3 main.py</li>
 </ol>
